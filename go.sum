@@ -1,0 +1,12 @@
+github.com/Hari-Kiri/goalApplicationSettingsLoader v0.1.0 h1:BvJIwxjVFr79QVxhk4EI9Z+2IdlVtrfg6D9QpMrDwWQ=
+github.com/Hari-Kiri/goalApplicationSettingsLoader v0.1.0/go.mod h1:Sc7yrkmrv3hVE3D95IG5Ejo0ksJPXs+dHK9hwB4DeCs=
+github.com/Hari-Kiri/goalHash v0.1.0 h1:mtQBlaM0wAj2URjXq3Gd7fxVbvyVdK3q7IAKGVAqD1w=
+github.com/Hari-Kiri/goalHash v0.1.0/go.mod h1:4GnQTzCUM9JotnqE+QZfvBJgI3JqUxevHZINO7Ebla0=
+github.com/Hari-Kiri/goalJson v0.1.0 h1:DEqNOWtTf63+s98lPoKkiLtJzA/Xv5XMnqu0GnelMXQ=
+github.com/Hari-Kiri/goalJson v0.1.0/go.mod h1:KjIxD80e0+cDNEoitZbjBR3zBBcmiLHhGYaz5luZR1U=
+github.com/Hari-Kiri/goalMakeHandler v0.1.2 h1:CexOXLsF0tkeVLj3L+9jt499BmybkRFtl3UmYfZ2uD4=
+github.com/Hari-Kiri/goalMakeHandler v0.1.2/go.mod h1:XNPc6tnSWtOuXrUt4w1wZ24rd4Mp/DF+4KZHYF/j18A=
+github.com/Hari-Kiri/goalMySql v0.1.8 h1:CjV5dk6bEzczllBUd5rgTU7ff1h6m704pwBH1YqYKfU=
+github.com/Hari-Kiri/goalMySql v0.1.8/go.mod h1:6W8a1r37E39yvljLQuXrmCnjWqvUOu/ry+CaWqMW7HA=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=

@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "name": "Backend Service",
+        "port": 80,
+        "organisation": "Negara Kesatuan Republik Indonesia",
+        "version": "0.1"
+    },
+    "databaseConfiguration": {
+        "user": "root",
+        "password": "",
+        "connectionType": "tcp",
+        "hostname": "localhost",
+        "databaseName": "ecomm"
+    }
+}
